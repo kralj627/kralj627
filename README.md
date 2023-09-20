@@ -1,10 +1,9 @@
 ### About me
-- 🔭 Head of Product Management for SAST & Engines @Checkmarx
-- 🔭 Lead PM for https://github.com/Checkmarx/kics
-- :musical_note: Co-Founder of <a href="https://anchor.fm/mpm-podcast">Managing Product Management</a> - a podcast decidated to leading product management. 
-- 👯 I’m looking to collaborate on cloud native security, IaC, threat modeling and everything in between
-- ⚡ Fun fact: I'm a huge lego collector
-- :earth_africa: Based in Tel Aviv
+- 🔭 Head of TeamFOXI
+- :musical_note: 
+- 👯 
+- ⚡ Fun fact: Playing 'Lies of P'
+- :earth_africa: 
 <!--
 **oribendetcx/oribendetcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
