@@ -1,5 +1,6 @@
 ### About me
 - 🔭 Head of TeamFOXI
+- 🌱 Project in progress: 'Vendingtta'
 - ⚡ The game I recently played: 'Lies of P'
 <!--
 
